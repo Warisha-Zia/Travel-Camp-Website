@@ -61,12 +61,12 @@ let Camp = () => {
           subtitle="Gilgit-Baltistan, Pakistan"
           peopleJoined="50+ Joined"
         />
-        {/* <CampSite 
+         <CampSite 
           backgroundImage="bg-bg-img-2"
-          title="Mountain View Camp"
-          subtitle="Somewhere in the Wilderness"
+          title="Roomy Mountain View Camp"
+          subtitle="Somewhere in the Naran"
           peopleJoined="50+ Joined"
-        /> */}
+        /> 
       </div>
 
       <div className="flexEnd mt-10 px-6 lg:-mt-60 lg:mr-6">
